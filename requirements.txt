@@ -1,0 +1,12 @@
+torch
+torchvision
+timm
+numpy
+pandas
+matplotlib
+plotly
+opencv-python
+scikit-learn
+wandb
+streamlit
+gradio
